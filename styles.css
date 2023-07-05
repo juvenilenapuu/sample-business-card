@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+img{
+    width: 150px;
+    border: 3px solid black;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+.card {
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background: #2f4f4f;
+    border: 5px solid black;
+    border-bottom: 40px solid black;
+    border-radius: 5px; 
+}
+
+
+.details{
+color: black;
+justify-content: center;
+text-align: center;
+align-items: center;
+padding-top: 30px;
+}
+
+
+
